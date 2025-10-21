@@ -19,17 +19,17 @@ p {
 h3 {
     text-align: center;
     border: 1px solid black;
-    margin: 0 540px 0 540px;
+    margin: 0 500px 0 500px;
     background-color: lightblue;
     margin-bottom: 15px;
 }
 
 label[for="Name"]  {
-    margin: 0 5px 0 540px;
+    margin: 0 5px 0 500px;
 }
 
 label[for="Address"] {
-  margin-left: 540px;
+  margin-left: 500px;
 }
 
 label[for="city"] {
